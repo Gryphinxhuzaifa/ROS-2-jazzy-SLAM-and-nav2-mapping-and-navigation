@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>my_robot</name>
+  <version>1.0.0</version>
+  <description>
+    URDF Description package for my_robot for ROS 2 Jazzy Gazebo
+  </description>
+  <maintainer email="todo@todo.com">TODO</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>joint_state_publisher</depend>
+  <depend>xacro</depend>
+  <depend>ros_gz_sim</depend>
+  <depend>ros_gz_bridge</depend>
+  <depend>rviz2</depend>
+  <depend>cartographer_ros</depend>
+  <depend>nav2_bringup</depend>
+  <depend>navigation2</depend>
+  <depend>nav2_simple_commander</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
