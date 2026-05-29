@@ -1,4 +1,3 @@
-```
 # 🤖 ROS 2 Jazzy | Mapping & Autonomous Navigation in Simulation
 
 A simulation-based autonomous mobile robot project built with ROS 2 Jazzy —
@@ -9,7 +8,7 @@ and autonomous navigation, entirely in simulation.
 
 ## 📸 Demo
 
-> Gazebo simulation, RViz2 mapping, and Nav2 navigation screenshots/GIFs here
+> Add Gazebo simulation, RViz2 mapping, and Nav2 navigation screenshots/GIFs here
 
 ---
 
@@ -85,7 +84,7 @@ sudo apt install \
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ros2_jazzy_mapping_navigation_slam_nav2.git
+git clone https://github.com/Gryphinxhuzaifa/ros2_jazzy_mapping_navigation_slam_nav2.git
 cd ros2_jazzy_mapping_navigation_slam_nav2
 ```
 
@@ -165,8 +164,13 @@ RViz2 Visualization
 
 ## 👤 Author
 
-**[Muhammad Huzaifa]**
-Robotics Engineer | ROS 2 · Gazebo · SLAM · Nav2 · SolidWares · Embedded Systems
+**Muhammad Huzaifa**
+Robotics Engineer | ROS 2 · C++ · Python · Arduino · MATLAB/Simulink
+Embedded systems, control, and autonomous robot development
+
+🌐 GitHub: [@Gryphinxhuzaifa](https://github.com/Gryphinxhuzaifa)
+📧 gamernornor7@gmail.com
+📍 Islamabad, Pakistan
 
 ---
 
