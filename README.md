@@ -4,14 +4,6 @@ A simulation-based autonomous mobile robot project built with ROS 2 Jazzy —
 covering the complete pipeline from 3D mechanical design to real-time mapping
 and autonomous navigation, entirely in simulation.
 
----
-
-## 📸 Demo
-
-> Add Gazebo simulation, RViz2 mapping, and Nav2 navigation screenshots/GIFs here
-
----
-
 ## 📌 Overview
 
 This project demonstrates a full autonomous navigation pipeline using ROS 2 Jazzy.
